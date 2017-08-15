@@ -4,6 +4,7 @@
   "description": "Library course JS with TDD on practice.",
   "main": "index.js",
   "scripts": {
+    "lint": ".\\node_modules\\.bin\\eslint src\\*.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
